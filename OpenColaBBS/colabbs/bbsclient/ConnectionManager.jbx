@@ -1,0 +1,14 @@
+[PropertyInfo]
+address,String,false,false,Address,Address,true,<default>
+clientType,int,false,false,clientType,clientType,true,<default>
+newID,boolean,false,false,newID,newID,true,<default>
+passWord,String,false,false,PassWord,PassWord,true,<default>
+userName,String,false,false,UserName,UserName,true,<default>
+email,String,false,false,Email,Email,true,<default>
+signatureNumber,int,false,false,SignatureNumber,SignatureNumber,true,<default>
+permission,int,false,false,Permission,Permission,true,<default>
+[IconNames]
+
+
+
+
