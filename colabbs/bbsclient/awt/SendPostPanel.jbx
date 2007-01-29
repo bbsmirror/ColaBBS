@@ -1,0 +1,14 @@
+[PropertyInfo]
+anonymous,boolean,false,false,Anonymous,Anonymous,true,<default>
+article,String,false,false, , ,true,<default>
+boardName,String,false,false,BoardName,BoardName,true,<default>
+localSave,boolean,false,false,LocalSave,LocalSave,true,<default>
+signature,int,false,false,Signature,Signature,true,<default>
+signatureNumber,int,false,false,SignatureNumber,SignatureNumber,true,<default>
+title,String,false,false,Title,Title,true,<default>
+anonymousBoard,boolean,false,false,AnonymousBoard,AnonymousBoard,true,<default>
+[IconNames]
+
+
+
+

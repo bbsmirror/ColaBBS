@@ -1,0 +1,11 @@
+[PropertyInfo]
+enabled,boolean,false,false,enabled,enabled,true,<default>
+newID,boolean,false,false,newID,newID,true,<default>
+passWord,String,false,false,PassWord,PassWord,true,<default>
+userName,String,false,false,userName,userName,true,<default>
+email,String,false,false,Email,Email,true,<default>
+[IconNames]
+
+
+
+
